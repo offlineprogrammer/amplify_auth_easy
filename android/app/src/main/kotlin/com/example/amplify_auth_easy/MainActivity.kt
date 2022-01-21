@@ -1,0 +1,6 @@
+package com.example.amplify_auth_easy
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
